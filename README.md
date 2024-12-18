@@ -35,7 +35,7 @@ Key objectives of the project included:
 1. **Power BI Report (`https://github.com/Virendrabachhav/Analysis-of-Banking-Operations-using-PowerBI/blob/main/Banking-Operations-Analysis.pbix`)**:
    - Interactive dashboards answering key business questions.
    - Measures and DAX calculations for custom insights.
-2. **Presentation (`Documentation.pptx`)**:
+2. **Presentation (`https://github.com/Virendrabachhav/Analysis-of-Banking-Operations-using-PowerBI/blob/main/bank%20performance%20analysis.pptx`)**:
    - Summarized findings and recommendations.
 3. **Screenshots (`/Screenshots`)**:
    - Key visuals for a quick overview of insights.
