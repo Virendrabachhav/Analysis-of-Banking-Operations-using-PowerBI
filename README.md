@@ -32,7 +32,7 @@ Key objectives of the project included:
 ---
 
 ## Deliverables
-1. **Power BI Report (`BankingOperationsAnalysis.pbix`)**:
+1. **Power BI Report (`https://github.com/Virendrabachhav/Analysis-of-Banking-Operations-using-PowerBI/blob/main/Banking-Operations-Analysis.pbix`)**:
    - Interactive dashboards answering key business questions.
    - Measures and DAX calculations for custom insights.
 2. **Presentation (`Documentation.pptx`)**:
@@ -50,12 +50,12 @@ Key objectives of the project included:
 ---
 
 ## About Me
-As a **Data Analyst Intern**, I developed this project to demonstrate my ability to work with complex datasets, derive actionable insights, and communicate findings effectively. This project highlights my proficiency in Power BI, data visualization, and analytical problem-solving.
+As a **Data Analyst**, I developed this project to demonstrate my ability to work with complex datasets, derive actionable insights, and communicate findings effectively. This project highlights my proficiency in Power BI, data visualization, and analytical problem-solving.
 
 ---
 
 ## Contact
 For inquiries or collaboration:
 - **Name**: Virendra Bachhhav  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
+- **Email**: [virendrabachhav46gmail.com](mailto:your.virendrabachhav46@gmail.com.com)  
 - **GitHub**: [GitHub Profile](https://github.com/yourusername)
